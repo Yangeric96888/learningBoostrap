@@ -5,6 +5,8 @@
 @import url("../style.css");
 @import url("_variables.css");
 
+
+
 /* Global classes */
 
 .title-text {
@@ -15,11 +17,13 @@
     text-transform: uppercase;
 }
 
+
+
 /* Buttons */
 
 .button{
     padding: .8rem 2.2rem;
-    font: normal 500 16px/20px var(--roboto);
+    font: normal 750 16px/20px var(--roboto);
     position: relative;
     border: 3px solid transparent;
     border-radius: 4px;
@@ -57,4 +61,21 @@
 .button.secondary-button:hover {
     background: var(--gradient-color);
     color: whitesmoke;box-shadow: var(--box-shadow);
+}
+
+
+
+/* Paragraph */
+
+p.para {
+    color: var(--text-color);
+    font: normal 500 16px/25px var(--roboto);
+}
+
+
+
+/* Font Family*/
+
+.font-roboto {
+    font-family: var(--roboto);
 }
