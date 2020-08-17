@@ -2,7 +2,7 @@
 <html lang="en">
 
 <!-- https://github.com/akashyap2013/PortFolio_Website/tree/master -->
-<!-- Current Video location is 1:42:51. Ad -->
+<!-- Current Video location is 2:29:55 -->
 
 <head>
     <!-- Required meta tags -->
@@ -12,9 +12,15 @@
     <!--  Custom CSS file  -->
     <link rel="stylesheet" href="./css/style.css">
 
-    <!-- Bootstrap CSS -->
+    <!-- Bootstrap CSS file -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
+    <!--  Magnific Popup CSS File  -->
+    <link rel="stylesheet" href="./vendor/magnific-popup/dist/magnific-popup.css">
+
+    <!--  Owl Carousel CSS File  -->
+    <link rel="stylesheet" href="./vendor/owl-carousel/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="./vendor/owl-carousel/dist/assets/owl.theme.default.min.css">
     <!--  Font Awesome CSS file  -->
     <link rel="stylesheet" href="./css/all.min.css">
 
@@ -201,6 +207,7 @@
                         </p>
                     </div>
                 </div>
+
                 <div class="container-service-lsit">
                     <div class="row">
                         <div class="col-lg-3 col-md-6 col-sm-12">
@@ -218,6 +225,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <div class="service">
                                 <div class="service-img text-center py-4">
@@ -233,6 +241,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <div class="service">
                                 <div class="service-img text-center py-4">
@@ -248,6 +257,7 @@
                                 </div>
                             </div>
                         </div>
+
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <div class="service">
                                 <div class="service-img text-center py-4">
@@ -267,16 +277,187 @@
                 </div>
             </div>
         </section>
-        <!-- ============================== End Service Area ============================== -->
+        <!-- ============================== Start Project Area ============================== -->
+        <section class="project-area">
+            <div class="container">
+                <div class="project-title pb-5">
+                    <h1 class="text-uppercase title-h1">Recently Done Projects</h1>
+                    <h1 class="text-uppercase title-h1">Quality Work</h1>
+                </div>
+
+                <div class="button-group" id="btn1">
+                    <button type="button" class="active" data-filter="*">All</button>
+                    <button type="button" data-filter=".popular">Popular</button>
+                    <button type="button" data-filter=".latest">Latest</button>
+                    <button type="button" data-filter=".upcoming">Upcoming</button>
+                    <button type="button" data-filter=".following">Following</button>
+                </div>
+
+                <div class="row grid">
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item latest">
+                        <div class="our-project">
+                            <div class="img">
+                                <a href="./img/portfolio/p1.jpg" class="test-popup-link">
+                                    <img src="./img/portfolio/p1.jpg" alt="portfolio-1" class="img-fluid">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <h4 class="text-uppercase">Minimal Design</h4>
+                                <span class="text-secondary">Latest, Portfolio</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item popular">
+                        <div class="our-project">
+                            <div class="img">
+                                <a href="./img/portfolio/p2.jpg" class="test-popup-link">
+                                    <img src="./img/portfolio/p2.jpg" alt="portfolio-2" class="img-fluid">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <h4 class="text-uppercase">Lowfly Socks</h4>
+                                <span class="text-secondary">Popular, Portfolio</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item latest">
+                        <div class="our-project">
+                            <div class="img">
+                                <a href="./img/portfolio/p3.jpg" class="test-popup-link">
+                                    <img src="./img/portfolio/p3.jpg" alt="portfolio-3" class="img-fluid">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <h4 class="text-uppercase">Savoury Soup</h4>
+                                <span class="text-secondary">Latest, Portfolio</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item upcoming">
+                        <div class="our-project">
+                            <div class="img">
+                                <a href="./img/portfolio/p4.jpg" class="test-popup-link">
+                                    <img src="./img/portfolio/p4.jpg" alt="portfolio-4" class="img-fluid">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <h4 class="text-uppercase">Super Shoes</h4>
+                                <span class="text-secondary">Upcoming, Portfolio</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item upcoming">
+                        <div class="our-project">
+                            <div class="img">
+                                <a href="./img/portfolio/p5.jpg" class="test-popup-link">
+                                    <img src="./img/portfolio/p5.jpg" alt="portfolio-5" class="img-fluid">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <h4 class="text-uppercase">Electro Poster</h4>
+                                <span class="text-secondary">Upcoming, Portfolio</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item following">
+                        <div class="our-project">
+                            <div class="img">
+                                <a href="./img/portfolio/p6.jpg" class="test-popup-link">
+                                    <img src="./img/portfolio/p6.jpg" alt="portfolio-6" class="img-fluid">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <h4 class="text-uppercase">Nice Flowers</h4>
+                                <span class="text-secondary">Following, Portfolio</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item popular">
+                        <div class="our-project">
+                            <div class="img">
+                                <a href="./img/portfolio/p7.jpg" class="test-popup-link">
+                                    <img src="./img/portfolio/p7.jpg" alt="portfolio-7" class="img-fluid">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <h4 class="text-uppercase">Hot Sauce</h4>
+                                <span class="text-secondary">Popular, Portfolio</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item following">
+                        <div class="our-project">
+                            <div class="img">
+                                <a href="./img/portfolio/p8.jpg" class="test-popup-link">
+                                    <img src="./img/portfolio/p8.jpg" alt="portfolio-8" class="img-fluid">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <h4 class="text-uppercase">Lipstick Sharpie</h4>
+                                <span class="text-secondary">Following, Portfolio</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-sm-12 element-item upcoming">
+                        <div class="our-project">
+                            <div class="img">
+                                <a href="./img/portfolio/p9.jpg" class="test-popup-link">
+                                    <img src="./img/portfolio/p9.jpg" alt="portfolio-9" class="img-fluid">
+                                </a>
+                            </div>
+                            <div class="title py-4">
+                                <h4 class="text-uppercase">Camera Lens</h4>
+                                <span class="text-secondary">Upcoming, Portfolio</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ============================== Start About Me Area ============================== -->
+        <section class="about-area">
+            <div class="cotainer">
+                <div class="row text-center">
+                    <div class="col-12">
+                        <div class="about-title">
+                            <h1 class="text-uppercase title-h1">Clients' Review</h1>
+                            <p class="para">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam beatae dolore dolores eos nesciunt porro quis reprehenderit voluptates. Consequuntur, itaque!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container carousel py-lg-5">
+                <div class="owl-carousel owl-theme">
+                    <div class="client row">
+                        <div class="col-lg-4 col-md-12 client-img">
+                            <img src="./img/testimonials/t1.jpg" alt="img1" class="img-fluid">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- ============================== End About Me Area ============================== -->
     </main>
     <!-- ============================== End Main Area ============================== -->
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <!-- Import Javascript Files  -->
     <div>
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <div>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+            <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+            <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+        </div>
+        <!--  custom JS File  -->
+        <script type="text/javascript" src="./js/main.js"></script>
+        <!-- Optional JavaScript (Isotope, then Magnific, then Owl Carousel) -->
+        <script src="./vendor/isotope/isotope.min.js"></script>
+        <script src="./vendor/magnific-popup/dist/jquery.magnific-popup.min.js"></script>
+        <script src="./vendor/owl-carousel/dist/owl.carousel.min.js"></script>
     </div>
+
     </body>
 </html>
