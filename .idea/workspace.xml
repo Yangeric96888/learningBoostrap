@@ -22,248 +22,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04893b62-5181-4dd6-93f8-88c896c2f891" name="Default Changelist" comment="8/12&#10;End of workday&#10;&#10;1. Added Brand Area&#10;2. Added Service Area&#10;3. Reorganised comments&#10;&#10;Video finished up to 1:42:52&#10;&#10;Amen">
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/isotope/isotope.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/dist/jquery.magnific-popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/dist/jquery.magnific-popup.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/dist/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/libs/jquery-loader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/libs/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/libs/qunit/qunit.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/libs/qunit/qunit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/magnific-popup.jquery.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/src/css/_settings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/src/css/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/src/js/ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/src/js/core.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/src/js/gallery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/src/js/iframe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/src/js/image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/src/js/inline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/src/js/retina.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/src/js/zoom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/_includes/analytics.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/_includes/build-tool.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/_includes/examples.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/_includes/logo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/_includes/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/documentation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/site-assets/ajax/test-ajax-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/site-assets/ajax/test-ajax.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/site-assets/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/third-party-libs/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/third-party-libs/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/third-party-libs/uglify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/third-party-libs/zepto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/third-party-libs/zepto.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/magnific-popup/website/wordpress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/Gruntfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/ISSUE_TEMPLATE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/ROADMAP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/dist/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/css/docs.theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/bird_blue_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-drag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-modern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-module.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-options.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-responsive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/feature-zombie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/owl-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/img/twitter_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/js/foundation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.theme.green.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/assets/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/owlcarousel/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/foundation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/highlight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/assets/vendors/jquery.mousewheel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/animate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/autoheight.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/autoplay.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/autowidth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/center.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/demos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/lazyLoad.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/merge.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/mousewheel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/responsive.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/rtl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/stagepadding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/urlhashnav.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/demos/video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/api-classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/api-events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/api-options.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-buildin-plugins.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-external.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-plugin-api.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/dev-styles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/started-faq.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/started-installation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/started-welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/support-changelog.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/support-contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/docs/support-contributing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/bird_blue_32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/download.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-drag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-modern.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-module.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-options.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-responsive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/feature-zombie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/owl-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/img/twitter_25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/js/foundation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/_settings.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/demos.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/docs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/docs.theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/scss/highlight.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/foundation.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/highlight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/assets/vendors/jquery.mousewheel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/classes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/events.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/features.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/data/options.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/helpers/modulo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/helpers/test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/layouts/demos.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/layouts/docs.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/layouts/home.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/animate.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/autoheight.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/autoplay.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/autowidth.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/basic.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/center.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/demos.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/events.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/lazyLoad.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/merge.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/mousewheel.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/responsive.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/rtl.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/stagepadding.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/test.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/urlhashnav.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/demos/video.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/api-classes.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/api-events.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/api-options.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-external.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-plugin-api.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-styles.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/started-faq.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/started-installation.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/started-welcome.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/support-changelog.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/support-contact.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/support-contributing.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/index.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/footer.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/head.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/header.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-carousel.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-features.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-hero.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/home-teaser-text.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/javascripts.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/releated-docs.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/sidenav-docs.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/title.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/partials/vendors.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/img/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/img/owl.video.play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/.jscsrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/.jshintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.animate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.autoheight.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.autoplay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.autorefresh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.hash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.lazyload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.support.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.support.modernizr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/js/owl.video.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_animate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_autoheight.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_lazyload.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_theme.default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_theme.green.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/_video.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/owl.carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/owl.theme.default.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/src/scss/owl.theme.green.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/test/unit/autoplay.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/test/unit/core.js" afterDir="false" />
+    <list default="true" id="04893b62-5181-4dd6-93f8-88c896c2f891" name="Default Changelist" comment="8/17&#10;End of workday&#10;&#10;1. Worked on Project Area&#10;2. Imported many outside JS plugins to support work&#10;3. Started About Page&#10;&#10;Video finished up to 2:29:55&#10;&#10;Amen">
+      <change afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/partials/_global.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/partials/_global.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/dist/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/magnific-popup/dist/jquery.magnific-popup.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -274,8 +40,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -299,7 +65,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/index.html" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path" value="node" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="liveEdit" />
   </component>
   <component name="RunManager">
     <configuration name="index" type="JavascriptDebugType" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/learningBoostrap/index.html" useBuiltInWebServerPort="true">
@@ -319,7 +85,11 @@
       <workItem from="1597251221500" duration="10018000" />
       <workItem from="1597336477815" duration="1805000" />
       <workItem from="1597682274779" duration="8186000" />
-      <workItem from="1597690473662" duration="483000" />
+      <workItem from="1597690473662" duration="1164000" />
+      <workItem from="1597691642218" duration="15000" />
+      <workItem from="1597694243306" duration="13000" />
+      <workItem from="1597768178208" duration="5249000" />
+      <workItem from="1597855821820" duration="10014000" />
     </task>
     <task id="LOCAL-00001" summary="8/10 &#10;End of workday&#10;&#10;Created website + worked up to 31:54 in tutorial&#10;&#10;Amen">
       <created>1597096775006</created>
@@ -356,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597267623287</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="8/17&#10;End of workday&#10;&#10;1. Worked on Project Area&#10;2. Imported many outside JS plugins to support work&#10;3. Started About Page&#10;&#10;Video finished up to 2:29:55&#10;&#10;Amen">
+      <created>1597691152627</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597691152627</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +156,8 @@
     <MESSAGE value="8/10 &#10;End of workday&#10;&#10;Created website + worked up to 31:54 in tutorial&#10;&#10;Amen" />
     <MESSAGE value="8/11&#10;End of workday&#10;&#10;1. Worked out many errors, especially concerning live edit and fonts&#10;2. Finished the banner area of main index&#10;3. Organised the code, such as by adding the folder for partials&#10;&#10;Video finished up to 58:30&#10;&#10;Amen" />
     <MESSAGE value="8/12&#10;End of workday&#10;&#10;1. Added Brand Area&#10;2. Added Service Area&#10;3. Reorganised comments&#10;&#10;Video finished up to 1:42:52&#10;&#10;Amen" />
-    <option name="LAST_COMMIT_MESSAGE" value="8/12&#10;End of workday&#10;&#10;1. Added Brand Area&#10;2. Added Service Area&#10;3. Reorganised comments&#10;&#10;Video finished up to 1:42:52&#10;&#10;Amen" />
+    <MESSAGE value="8/17&#10;End of workday&#10;&#10;1. Worked on Project Area&#10;2. Imported many outside JS plugins to support work&#10;3. Started About Page&#10;&#10;Video finished up to 2:29:55&#10;&#10;Amen" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/17&#10;End of workday&#10;&#10;1. Worked on Project Area&#10;2. Imported many outside JS plugins to support work&#10;3. Started About Page&#10;&#10;Video finished up to 2:29:55&#10;&#10;Amen" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1597179762251">
@@ -402,78 +180,78 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="609" y="225" key="Github.UntrackedFilesDialog/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597083996271" />
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1597690469612">
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1597868674348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.bottom/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469612" />
-    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1597690469612">
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674348" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1597868674348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.center/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469612" />
-    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1597690469612">
+    <state width="1899" height="348" key="GridCell.Tab.0.center/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674348" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1597868674348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.left/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469612" />
-    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1597690469612">
+    <state width="1899" height="348" key="GridCell.Tab.0.left/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674348" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1597868674348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.0.right/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469612" />
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1597690469613">
+    <state width="1899" height="348" key="GridCell.Tab.0.right/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674348" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1597868674349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.bottom/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469613" />
-    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1597690469612">
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674349" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1597868674348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.center/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469612" />
-    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1597690469612">
+    <state width="1899" height="348" key="GridCell.Tab.1.center/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674348" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1597868674348">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.left/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469612" />
-    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1597690469613">
+    <state width="1899" height="348" key="GridCell.Tab.1.left/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674348" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1597868674349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.1.right/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469613" />
-    <state width="1899" height="348" key="GridCell.Tab.2.bottom" timestamp="1597690469613">
+    <state width="1899" height="348" key="GridCell.Tab.1.right/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674349" />
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom" timestamp="1597868674349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.bottom/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469613" />
-    <state width="1899" height="348" key="GridCell.Tab.2.center" timestamp="1597690469613">
+    <state width="1899" height="348" key="GridCell.Tab.2.bottom/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674349" />
+    <state width="1899" height="348" key="GridCell.Tab.2.center" timestamp="1597868674349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.center/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469613" />
-    <state width="1899" height="348" key="GridCell.Tab.2.left" timestamp="1597690469613">
+    <state width="1899" height="348" key="GridCell.Tab.2.center/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674349" />
+    <state width="1899" height="348" key="GridCell.Tab.2.left" timestamp="1597868674349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.left/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469613" />
-    <state width="1899" height="348" key="GridCell.Tab.2.right" timestamp="1597690469613">
+    <state width="1899" height="348" key="GridCell.Tab.2.left/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674349" />
+    <state width="1899" height="348" key="GridCell.Tab.2.right" timestamp="1597868674349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.2.right/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469613" />
-    <state width="1899" height="348" key="GridCell.Tab.3.bottom" timestamp="1597690469614">
+    <state width="1899" height="348" key="GridCell.Tab.2.right/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674349" />
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom" timestamp="1597868674350">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.bottom/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469614" />
-    <state width="1899" height="348" key="GridCell.Tab.3.center" timestamp="1597690469613">
+    <state width="1899" height="348" key="GridCell.Tab.3.bottom/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674350" />
+    <state width="1899" height="348" key="GridCell.Tab.3.center" timestamp="1597868674349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.center/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469613" />
-    <state width="1899" height="348" key="GridCell.Tab.3.left" timestamp="1597690469613">
+    <state width="1899" height="348" key="GridCell.Tab.3.center/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674349" />
+    <state width="1899" height="348" key="GridCell.Tab.3.left" timestamp="1597868674349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.left/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469613" />
-    <state width="1899" height="348" key="GridCell.Tab.3.right" timestamp="1597690469614">
+    <state width="1899" height="348" key="GridCell.Tab.3.left/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674349" />
+    <state width="1899" height="348" key="GridCell.Tab.3.right" timestamp="1597868674349">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="348" key="GridCell.Tab.3.right/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690469614" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1597690219967">
+    <state width="1899" height="348" key="GridCell.Tab.3.right/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597868674349" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1597861562995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597690219967" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597267627263">
+    <state x="461" y="165" key="SettingsEditor/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597861562995" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597691156917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597267627263" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597691156917" />
     <state x="569" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597166211536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

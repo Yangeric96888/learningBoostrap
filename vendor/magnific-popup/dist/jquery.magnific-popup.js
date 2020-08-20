@@ -1319,7 +1319,7 @@ $.magnificPopup.registerModule('image', {
 					item.hasSize = false;
 				}
 			}
-
+!
 			mfp._parseMarkup(template, {
 				title: _getTitle(item),
 				img_replaceWith: item.img

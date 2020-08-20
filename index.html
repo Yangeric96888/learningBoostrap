@@ -2,7 +2,6 @@
 <html lang="en">
 
 <!-- https://github.com/akashyap2013/PortFolio_Website/tree/master -->
-<!-- Current Video location is 2:29:55 -->
 
 <head>
     <!-- Required meta tags -->
@@ -11,6 +10,7 @@
 
     <!--  Custom CSS file  -->
     <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/responsive.css">
 
     <!-- Bootstrap CSS file -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
@@ -208,7 +208,7 @@
                     </div>
                 </div>
 
-                <div class="container-service-lsit">
+                <div class="container-service-list">
                     <div class="row">
                         <div class="col-lg-3 col-md-6 col-sm-12">
                             <div class="service">
@@ -285,8 +285,8 @@
                     <h1 class="text-uppercase title-h1">Quality Work</h1>
                 </div>
 
-                <div class="button-group" id="btn1">
-                    <button type="button" class="active" data-filter="*">All</button>
+                <div class="button-group">
+                    <button type="button" id="btn1" class="active" data-filter="*">All</button>
                     <button type="button" data-filter=".popular">Popular</button>
                     <button type="button" data-filter=".latest">Latest</button>
                     <button type="button" data-filter=".upcoming">Upcoming</button>
@@ -429,19 +429,116 @@
                 </div>
             </div>
 
-            <div class="container carousel py-lg-5">
+            <div class="container carousel py">
                 <div class="owl-carousel owl-theme">
                     <div class="client row">
                         <div class="col-lg-4 col-md-12 client-img">
                             <img src="./img/testimonials/t1.jpg" alt="img1" class="img-fluid">
                         </div>
+                        <div class="col-lg-8 col-mid-12 about-client">
+                            <h4 class="text-uppercase">John Martin</h4>
+                            <p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque culpa eligendi impedit nam perspiciatis quos recusandae tempora unde voluptas!</p>
+                        </div>
+                    </div>
+                    <div class="client row">
+                        <div class="col-lg-4 col-md-12 client-img">
+                            <img src="./img/testimonials/t2.jpg" alt="img2" class="img-fluid">
+                        </div>
+                        <div class="col-lg-8 col-mid-12 about-client">
+                            <h4 class="text-uppercase">Mac Dohn</h4>
+                            <p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque culpa eligendi impedit nam perspiciatis quos recusandae tempora unde voluptas!</p>
+                        </div>
+                    </div>
+                    <div class="client row">
+                        <div class="col-lg-4 col-md-12 client-img">
+                            <img src="./img/testimonials/t1.jpg" alt="img1" class="img-fluid">
+                        </div>
+                        <div class="col-lg-8 col-mid-12 about-client">
+                            <h4 class="text-uppercase">John Martin</h4>
+                            <p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque culpa eligendi impedit nam perspiciatis quos recusandae tempora unde voluptas!</p>
+                        </div>
+                    </div>
+                    <div class="client row">
+                        <div class="col-lg-4 col-md-12 client-img">
+                            <img src="./img/testimonials/t1.jpg" alt="img1" class="img-fluid">
+                        </div>
+                        <div class="col-lg-8 col-mid-12 about-client">
+                            <h4 class="text-uppercase">John Martin</h4>
+                            <p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque culpa eligendi impedit nam perspiciatis quos recusandae tempora unde voluptas!</p>
+                        </div>
+                    </div>
+                    <div class="client row">
+                        <div class="col-lg-4 col-md-12 client-img">
+                            <img src="./img/testimonials/t1.jpg" alt="img1" class="img-fluid">
+                        </div>
+                        <div class="col-lg-8 col-mid-12 about-client">
+                            <h4 class="text-uppercase">John Martin</h4>
+                            <p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque culpa eligendi impedit nam perspiciatis quos recusandae tempora unde voluptas!</p>
+                        </div>
+                    </div>
+                    <div class="client row">
+                        <div class="col-lg-4 col-md-12 client-img">
+                            <img src="./img/testimonials/t1.jpg" alt="img1" class="img-fluid">
+                        </div>
+                        <div class="col-lg-8 col-mid-12 about-client">
+                            <h4 class="text-uppercase">John Martin</h4>
+                            <p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam atque culpa eligendi impedit nam perspiciatis quos recusandae tempora unde voluptas!</p>
+                        </div>
                     </div>
                 </div>
             </div>
         </section>
-        <!-- ============================== End About Me Area ============================== -->
+        <!-- ============================== Start Subscribe Area ============================== -->
+        <section class="subscribe-area">
+            <div class="container subscribe">
+                <div class="row">
+                    <div class="col-lg-12 text-center subscribe-title">
+                        <h4 class="text-uppercase">Get Updated from Anywhere</h4>
+                        <p class="para">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, voluptates.</p>
+                    </div>
+                </div>
+                <div class="d-sm-flex justify-content-center">
+                    <form action="" class="w-50">
+                        <div class="row d-flex flex-row flex-wrap">
+                            <div class="col input-textbox">
+                                <input type="text" id="txtemail" class="form-control" placeholder="Email">
+                            </div>
+                            <div class="col">
+                                <div class="btn-submit">
+                                    <button type="submit" class="btn btn-success float-right">Subscribe</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+        <!-- ============================== End Subscribe Area ============================== -->
     </main>
-    <!-- ============================== End Main Area ============================== -->
+    <!-- ============================== Start Footer Area ============================== -->
+    <footer class="footer-area">
+        <div class="cointainer">
+            <div class="flex-wrap">
+                <div class="site-logo text-center py-4">
+                    <a href="#"><img src="./img/logo.png" alt="logo"></a>
+                </div>
+                <div class="social text-center">
+                    <h5 class="text-uppercase">Follow Me!</h5>
+                    <a href="#"><i class="fab fa-facebook"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-youtube"></i></a>
+                    <a href="#"><i class="fab fa-twitch"></i></a>
+                </div>
+                <div class="copyright text-center">
+                    <p class="para">
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, provident.
+                        <a href="#"><span style="color: var(--primary-color)">Eric Yang</span></a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- ============================== End Footer Area ============================== -->
 
     <!-- Import Javascript Files  -->
     <div>
