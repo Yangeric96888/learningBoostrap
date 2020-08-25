@@ -22,14 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04893b62-5181-4dd6-93f8-88c896c2f891" name="Default Changelist" comment="8/17&#10;End of workday&#10;&#10;1. Worked on Project Area&#10;2. Imported many outside JS plugins to support work&#10;3. Started About Page&#10;&#10;Video finished up to 2:29:55&#10;&#10;Amen">
-      <change afterPath="$PROJECT_DIR$/css/responsive.css" afterDir="false" />
+    <list default="true" id="04893b62-5181-4dd6-93f8-88c896c2f891" name="Default Changelist" comment="8/20&#10;End of workday&#10;&#10;1. Finished!&#10;2. Added footer&#10;3. Added sticky nav-bar&#10;4. Added subscribe-area&#10;5. Finished about-area&#10;&#10;Finished video!&#10;&#10;Amen">
+      <change afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-buildin-plugin-comment.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/partials/_global.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/partials/_global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/magnific-popup/dist/jquery.magnific-popup.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/magnific-popup/dist/jquery.magnific-popup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/owl-carousel/docs_src/templates/pages/docs/dev-buildin-plugins.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,6 +86,8 @@
       <workItem from="1597694243306" duration="13000" />
       <workItem from="1597768178208" duration="5249000" />
       <workItem from="1597855821820" duration="10014000" />
+      <workItem from="1597949097499" duration="800000" />
+      <workItem from="1598324285998" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary="8/10 &#10;End of workday&#10;&#10;Created website + worked up to 31:54 in tutorial&#10;&#10;Amen">
       <created>1597096775006</created>
@@ -133,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597691152627</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="8/20&#10;End of workday&#10;&#10;1. Finished!&#10;2. Added footer&#10;3. Added sticky nav-bar&#10;4. Added subscribe-area&#10;5. Finished about-area&#10;&#10;Finished video!&#10;&#10;Amen">
+      <created>1597949289780</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597949289780</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +162,8 @@
     <MESSAGE value="8/11&#10;End of workday&#10;&#10;1. Worked out many errors, especially concerning live edit and fonts&#10;2. Finished the banner area of main index&#10;3. Organised the code, such as by adding the folder for partials&#10;&#10;Video finished up to 58:30&#10;&#10;Amen" />
     <MESSAGE value="8/12&#10;End of workday&#10;&#10;1. Added Brand Area&#10;2. Added Service Area&#10;3. Reorganised comments&#10;&#10;Video finished up to 1:42:52&#10;&#10;Amen" />
     <MESSAGE value="8/17&#10;End of workday&#10;&#10;1. Worked on Project Area&#10;2. Imported many outside JS plugins to support work&#10;3. Started About Page&#10;&#10;Video finished up to 2:29:55&#10;&#10;Amen" />
-    <option name="LAST_COMMIT_MESSAGE" value="8/17&#10;End of workday&#10;&#10;1. Worked on Project Area&#10;2. Imported many outside JS plugins to support work&#10;3. Started About Page&#10;&#10;Video finished up to 2:29:55&#10;&#10;Amen" />
+    <MESSAGE value="8/20&#10;End of workday&#10;&#10;1. Finished!&#10;2. Added footer&#10;3. Added sticky nav-bar&#10;4. Added subscribe-area&#10;5. Finished about-area&#10;&#10;Finished video!&#10;&#10;Amen" />
+    <option name="LAST_COMMIT_MESSAGE" value="8/20&#10;End of workday&#10;&#10;1. Finished!&#10;2. Added footer&#10;3. Added sticky nav-bar&#10;4. Added subscribe-area&#10;5. Finished about-area&#10;&#10;Finished video!&#10;&#10;Amen" />
   </component>
   <component name="WindowStateProjectService">
     <state x="714" y="344" key="#Notifications" timestamp="1597179762251">
@@ -248,10 +254,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597861562995" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597691156917">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597949293188">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597691156917" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.413.1600.860/0.0.1920.1040@0.0.1920.1040" timestamp="1597949293188" />
     <state x="569" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597166211536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
